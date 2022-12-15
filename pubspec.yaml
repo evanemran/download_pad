@@ -1,7 +1,7 @@
 name: download_pad
-description: A flutter package to download files from internet
+description: A flutter package to download files from url
 version: 0.0.1
-homepage:
+homepage: https://github.com/evanemran/download_pad
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
